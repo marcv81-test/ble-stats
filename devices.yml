@@ -1,0 +1,13 @@
+- 
+  device: mi_thermometer
+  addr: "a4:c1:38:d3:c0:6a"
+  tags: 
+    location: window
+- 
+  device: mi_thermometer
+  addr: "a4:c1:38:8f:ed:57"
+  tags: 
+    location: bedroom
+- 
+  device: mi_scale
+  addr: "5c:ca:d3:ed:7f:27"
